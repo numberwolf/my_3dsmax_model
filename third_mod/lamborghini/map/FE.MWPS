@@ -1,0 +1,6 @@
+##Reventon
+## manufacturer
+patch	dword	bin:0x95a8	57
+
+## cost
+patch	dword	bin:0x95b4	1400000
